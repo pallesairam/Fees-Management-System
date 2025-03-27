@@ -31,8 +31,7 @@ git clone https://github.com/your-username/Fee-Management-System.git
 4️⃣ **Update JDBC Connection** in `DBconnection.java`  
 ```java
 String url = "jdbc:mysql://localhost:3306/fee_management";
-String user = "your-username";
-String pass = "your-password";
+
 ```
 5️⃣ **Run the Project & Manage Fees Easily!** 🎉
 
